@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reapeter", "Reapeter\Reapeter.csproj", "{FBF7DC28-1B91-4712-B230-7F8DFB2C1008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF7DC28-1B91-4712-B230-7F8DFB2C1008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF7DC28-1B91-4712-B230-7F8DFB2C1008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF7DC28-1B91-4712-B230-7F8DFB2C1008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF7DC28-1B91-4712-B230-7F8DFB2C1008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F33374D2-A9DA-4FD3-80D7-706CE43BFA87}
+	EndGlobalSection
+EndGlobal
